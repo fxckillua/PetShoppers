@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "298035315344",
+    "project_id": "pet-shop-ccec0",
+    "storage_bucket": "pet-shop-ccec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298035315344:android:88e39a022edb5e02dd8e15",
+        "android_client_info": {
+          "package_name": "com.example.petshop_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-zicf3M6y1wdt34pPAT2UpRk4RFqRWoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298035315344:android:62193f69a4de2359dd8e15",
+        "android_client_info": {
+          "package_name": "com.example.petshopers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-zicf3M6y1wdt34pPAT2UpRk4RFqRWoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298035315344:android:54fcf72b942a3a0edd8e15",
+        "android_client_info": {
+          "package_name": "com.example.projeto02app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-zicf3M6y1wdt34pPAT2UpRk4RFqRWoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
